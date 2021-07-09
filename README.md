@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning reactjs / Nextjs
 - 📫 LinkedIn : https://www.linkedin.com/in/iliyaahmadi/
 - 📫 Twitter : https://twitter.com/iliyahmadi
-- 📫 Instagram : instagram.com/iliyahmdi
+- 📫 Instagram : https://instagram.com/iliyahmdi
 - 📫 Telegram : @i1iyx
 
 <!---
