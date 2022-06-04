@@ -2,9 +2,8 @@
 - 👀 I’m interested in web developing (backend / frontend)
 - 🌱 I’m currently learning reactjs / Nextjs
 - 📫 LinkedIn : https://www.linkedin.com/in/iliyaahmadi/
-- 📫 Twitter : https://twitter.com/iliyahmadi
-- 📫 Instagram : https://instagram.com/iliyahmdi
-- 📫 Telegram : @i1iyx
+- 📫 Instagram : https://instagram.com/iliyaahmdi
+- 📫 Telegram : @illiyx
 
 <!---
 iliyaahmadi/iliyaahmadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
