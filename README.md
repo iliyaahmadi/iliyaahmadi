@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iliyaahmadi
 - 👀 I’m interested in web development (mostly backend)
-- 🌱 I’m currently learning Nextjs
 - 📫 LinkedIn : https://www.linkedin.com/in/iliyaahmadi/
 - 📫 Instagram : https://instagram.com/iliyahmdi
 - 📫 Telegram : @iliyx
