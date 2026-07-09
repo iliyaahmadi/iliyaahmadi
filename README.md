@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @iliyaahmadi
-- 👀 I’m interested in web development (mostly backend)
-- 📫 LinkedIn : https://www.linkedin.com/in/iliyaahmadi/
-- 📫 Instagram : https://instagram.com/iliyahmdi
-- 📫 Telegram : @iliyx
+- 👀 I’m interested in coding stuff
 
 
 <!---
